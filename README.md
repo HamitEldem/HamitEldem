@@ -7,8 +7,6 @@ I’m **currently working on uploading daily Data Structures & Algorithms** ques
 
 I have **knowledge about** basics of **Linux**, **OpenGL GLUT** and **C Programming Language**.
 
-I’m **currently learning** **Java**.
-
 You can find my OpenGL GLUT projects in this profile<br />
 |<br />
 |_ **Quoridor-Game** <br />
