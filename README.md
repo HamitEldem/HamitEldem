@@ -3,7 +3,7 @@
 
 I’m **currently a student** at **Bilkent University CTIS**
 
-I’m **currently working on uploading daily Data Structures & Algorithms** questions / source codes with **C language**.
+I’m **currently working on uploading  Data Structures & Algorithms** questions i solved with **C language**.
 
 I have **knowledge about** basics of **Linux**, **OpenGL GLUT** and **C Programming Language**.
 
