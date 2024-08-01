@@ -5,7 +5,7 @@ I’m **currently a student** at **Bilkent University CTIS**
 
 
 
-I’m **currently a board member ** at **Bilkent ACM**
+I’m **currently a board member** at **Bilkent ACM**
 
 
 I’m **currently working on uploading  Data Structures & Algorithms** questions i solved with **C language**.
