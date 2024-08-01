@@ -3,17 +3,14 @@
 
 I’m **currently a student** at **Bilkent University CTIS**
 
+
+
+I’m **currently a board member ** at **Bilkent ACM**
+
+
 I’m **currently working on uploading  Data Structures & Algorithms** questions i solved with **C language**.
 
 I have **knowledge about** basics of **Linux**, **OpenGL GLUT** and **C Programming Language**.
-
-You can find my OpenGL GLUT projects in this profile<br />
-|<br />
-|_ **Quoridor-Game** <br />
-|<br />
-|_ **Burst-Balloon-Game**<br />
-|<br />
-|_ **Air-Balloon-Animation**<br />
 
 
 ## How to reach me: 
