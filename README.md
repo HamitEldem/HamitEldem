@@ -8,13 +8,12 @@ I’m **currently a student** at **Bilkent University CTIS**
 I’m **currently a board member** at **Bilkent ACM**
 
 
-I’m **currently working on uploading  Data Structures & Algorithms** questions i solved with **C language**.
 
 I have **knowledge about** basics of **Linux**, **OpenGL GLUT** and **C Programming Language**.
 
 
 ## How to reach me: 
-**efeeldem[at]gmail[dot]com**
+**efeeldem@gmail.com**
 
 
 
