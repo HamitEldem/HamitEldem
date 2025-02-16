@@ -9,7 +9,7 @@ I’m **currently a board member** at **Bilkent ACM**
 
 
 
-I have **knowledge about** basics of **Linux**, **OpenGL GLUT**, **C & Java Programming Languages** and **PL/SQL**.
+I have **knowledge about** basics of **Linux, JavaScript**, **OpenGL GLUT**, **C & Java Programming Languages** and **PL/SQL**.
 
 
 ## How to reach me: 
