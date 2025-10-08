@@ -1,12 +1,7 @@
 # Who Am I?
 **My name is** Hamit Efe Eldem. 
 
-I’m **currently a student** at **Bilkent University CTIS**
-
-
-
-I’m **currently a board member** at **Bilkent ACM**
-
+I’m **currently a student** at **Bilkent University CTIS** and doing an exchange at **Queen's University**
 
 
 ## How to reach me: 
